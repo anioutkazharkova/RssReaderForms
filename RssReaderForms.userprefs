@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Android\RssReaderForms.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.F4559C68DAA2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RssReaderForms\Pages\MenuPage.cs">
+    <Files>
+      <File FileName="RssReaderForms\Pages\FeedsListPage.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Services\Database\DatabaseWorker.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Services\Database\FeedsDatabase.cs" Line="1" Column="1" />
+      <File FileName="Android\Services\Database\SQLiteProcessor.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Pages\MenuPage.cs" Line="70" Column="6" />
+      <File FileName="RssReaderForms\Pages\FeedPage.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Services\Database\Entity\FavoriteEntity.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Services\Database\Entity\RssFeedEntity.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Pages\HomeMasterPage.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Pages\FavoritePage.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Pages\ChannelPage.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Pages\CarouselFeedsPage.cs" Line="1" Column="1" />
+      <File FileName="Android\SplashActivity.cs" Line="1" Column="1" />
+      <File FileName="Android\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Android\Resources\values\Styles.xml" Line="1" Column="1" />
+      <File FileName="RssReaderForms\AppResources.en.resx" Line="1" Column="1" />
+      <File FileName="Android\Services\Share\Sharing.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\AppResources.en.Designer.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Services\XmlParser\FeedsProcessor.cs" Line="1" Column="1" />
+      <File FileName="Android\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="Android\Resources\values-ru\Strings.xml" Line="1" Column="1" />
+      <File FileName="RssReaderForms\AppResources.ru.resx" Line="1" Column="1" />
+      <File FileName="RssReaderForms\AppResources.resx" Line="1" Column="1" />
+      <File FileName="RssReaderForms\App.cs" Line="1" Column="1" />
+      <File FileName="RssReaderForms\Services\DateConverter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RssReaderForms.Android MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,57 @@
+D:\XamForms Projects\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.dll
+D:\XamForms Projects\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.pdb
+D:\XamForms Projects\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.dll
+D:\XamForms Projects\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\XamForms Projects\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.xml
+D:\XamForms Projects\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\XamForms Projects\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.dll
+D:\XamForms Projects\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.pdb
+D:\XamForms Projects\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.csprojResolveAssemblyReference.cache
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.dll
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.pdb
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\SQLite.Net.Async.dll
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\SQLite.Net.dll
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.dll
+C:\STUFF\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.pdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.AppResources.resources
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.AppResources.ru.resources
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.AppResources.en.resources
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.csproj.GenerateResource.Cache
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.pdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\en\RssReaderForms.resources.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\ru\RssReaderForms.resources.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\SQLite.Net.Async.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\SQLite.Net.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\en\RssReaderForms.resources.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\ru\RssReaderForms.resources.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.pdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\RssReaderForms.pdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\en\RssReaderForms.resources.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\ru\RssReaderForms.resources.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\SQLite.Net.Async.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\SQLite.Net.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.csprojResolveAssemblyReference.cache
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.AppResources.resources
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.AppResources.en.resources
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.AppResources.ru.resources
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.csproj.GenerateResource.Cache
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\en\RssReaderForms.resources.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\ru\RssReaderForms.resources.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\RssReaderForms\obj\Debug\RssReaderForms.pdb

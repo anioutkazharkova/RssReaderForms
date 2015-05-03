@@ -1,0 +1,283 @@
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.pdb
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll.mdb
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.apk
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.Android-Signed.apk
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.dll
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.pdb
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\RssReaderForms.dll.mdb
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.csprojResolveAssemblyReference.cache
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.dll
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.pdb
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\android\bin\RssReaderForms.Android.apk
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\layout\main.xml
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\values\strings.xml
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable\icon.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\values\styles.xml
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\R.cs.flag
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\uploadflags.txt
+D:\XamForms Projects\RssReaderForms\Android\bin\Debug\FormsViewGroup.dll
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_grey.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_white.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart_shape.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_favorite.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_share.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\infav.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_grey.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_white.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_grey.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_white.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart_shape.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_favorite.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_refresh.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_share.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\infav.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_grey.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_white.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_grey.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_white.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart_shape.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_favorite.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_refresh.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_share.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\infav.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_grey.png
+D:\XamForms Projects\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.pdb
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll.mdb
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.apk
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android-Signed.apk
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\FormsViewGroup.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.pdb
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.dll.mdb
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.csprojResolveAssemblyReference.cache
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.pdb
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\android\bin\RssReaderForms.Android.apk
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\layout\main.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\strings.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\icon.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\styles.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_grey.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart_shape.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_favorite.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_share.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\infav.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_grey.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_grey.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart_shape.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_favorite.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_refresh.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_share.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\infav.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_grey.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_grey.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart_shape.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_favorite.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_refresh.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_share.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\infav.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_grey.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\gray.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_new.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_new.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_new.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\image_button_states.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\shape_opacity.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\shape_select.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\colors.xml
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\rss_icons.png
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\R.cs.flag
+C:\STUFF\RssReaderForms\RssReaderForms\Android\obj\Debug\uploadflags.txt
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.Async.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.dll
+C:\STUFF\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.pdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll.mdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.apk
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android-Signed.apk
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\FormsViewGroup.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.Async.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.pdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.dll.mdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.csprojResolveAssemblyReference.cache
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.pdb
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\android\bin\RssReaderForms.Android.apk
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\layout\main.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\strings.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\icon.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\styles.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_grey.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_white.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart_shape.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_favorite.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_share.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\infav.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_grey.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_white.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_grey.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_white.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart_shape.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_favorite.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_refresh.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_share.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\infav.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_grey.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_white.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_grey.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_white.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart_shape.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_favorite.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_refresh.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_share.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\infav.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_grey.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_white.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\gray.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_new.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_new.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_new.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\image_button_states.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\shape_opacity.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\shape_select.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\colors.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\rss_icons.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\R.cs.flag
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\uploadflags.txt
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\layout\splash.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\en\RssReaderForms.resources.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\ru\RssReaderForms.resources.dll
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values-ru\strings.xml
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_accept.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_accept.png
+D:\XamForms Projects\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_accept.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.pdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.dll.mdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android.apk
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.Android-Signed.apk
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\FormsViewGroup.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.Async.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.pdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\RssReaderForms.dll.mdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\en\RssReaderForms.resources.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\bin\Debug\ru\RssReaderForms.resources.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.csprojResolveAssemblyReference.cache
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.dll
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\RssReaderForms.Android.pdb
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\android\bin\RssReaderForms.Android.apk
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\layout\main.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\strings.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\icon.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\styles.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_grey.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\favorite_white.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\heart_shape.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_favorite.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_share.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\infav.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_grey.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_grey.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\favorite_white.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\heart_shape.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_favorite.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_refresh.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_share.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\infav.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_grey.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_grey.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\favorite_white.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\heart_shape.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_favorite.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_refresh.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_share.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\infav.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_grey.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\not_favorite_white.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\gray.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_new.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_new.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_new.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\image_button_states.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\shape_opacity.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\shape_select.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values\colors.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable\rss_icons.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\layout\splash.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\values-ru\strings.xml
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-hdpi\ic_action_accept.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xhdpi\ic_action_accept.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\res\drawable-xxhdpi\ic_action_accept.png
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\R.cs.flag
+C:\STUFF\RssReaderForms5\RssReaderForms4\RssReaderForms\RssReaderForms\Android\obj\Debug\uploadflags.txt

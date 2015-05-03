@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+<data name="Yesterday" xml:space="preserve">
+    <value>Вчера</value>
+    <comment></comment>
+</data>
+    <data name="Today" xml:space="preserve">
+    <value>Сегодня</value>
+    <comment></comment>
+</data>
+    <data name="AddToFavorite" xml:space="preserve">
+    <value>В избранное</value>
+    <comment></comment>
+</data>
+    <data name="RemoveFromFavorite" xml:space="preserve">
+    <value>Из избранного</value>
+    <comment></comment>
+</data>
+    <data name="Settings" xml:space="preserve">
+    <value>Настройки</value>
+    <comment></comment>
+</data>
+    <data name="Share" xml:space="preserve">
+    <value>Поделиться новостью</value>
+    <comment></comment>
+</data>
+    <data name="Go to link" xml:space="preserve">
+    <value>Перейти по ссылке</value>
+    <comment></comment>
+</data>
+      <data name="AddNewChannel" xml:space="preserve">
+    <value>Добавить подписку</value>
+    <comment></comment>
+</data>
+    <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+    <comment></comment>
+</data>
+    <data name="Cancel" xml:space="preserve">
+    <value>Отменить</value>
+    <comment></comment>
+</data>
+    <data name="NewChannel" xml:space="preserve">
+    <value>Новая подписка</value>
+    <comment></comment>
+</data>
+    <data name="Favorite" xml:space="preserve">
+    <value>Избранное</value>
+    <comment></comment>
+</data>
+     <data name="Название" xml:space="preserve">
+    <value>Name</value>
+    <comment></comment>
+</data>
+    <data name="Url" xml:space="preserve">
+    <value>Url канала</value>
+    <comment></comment>
+</data>
+</root>

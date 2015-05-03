@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+<data name="Yesterday" xml:space="preserve">
+    <value>Yesterday</value>
+    <comment></comment>
+</data>
+    <data name="Today" xml:space="preserve">
+    <value>Today</value>
+    <comment></comment>
+</data>
+    <data name="AddToFavorite" xml:space="preserve">
+    <value>Add to favorite</value>
+    <comment></comment>
+</data>
+    <data name="RemoveFromFavorite" xml:space="preserve">
+    <value>Remove from favorite</value>
+    <comment></comment>
+</data>
+    <data name="Settings" xml:space="preserve">
+    <value>Settings</value>
+    <comment></comment>
+</data>
+    <data name="Share" xml:space="preserve">
+    <value>Share a feed</value>
+    <comment></comment>
+</data>
+    <data name="Go to link" xml:space="preserve">
+    <value>Go to post</value>
+    <comment></comment>
+</data>
+      <data name="AddNewChannel" xml:space="preserve">
+    <value>Add new Channel</value>
+    <comment></comment>
+</data>
+    <data name="Save" xml:space="preserve">
+    <value>Save</value>
+    <comment></comment>
+</data>
+    <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+    <comment></comment>
+</data>
+    <data name="NewChannel" xml:space="preserve">
+    <value>New channel</value>
+    <comment></comment>
+</data>
+    <data name="Favorite" xml:space="preserve">
+    <value>Favorite</value>
+    <comment></comment>
+</data>
+     <data name="Name" xml:space="preserve">
+    <value>Name</value>
+    <comment></comment>
+</data>
+    <data name="Url" xml:space="preserve">
+    <value>Url</value>
+    <comment></comment>
+</data>
+</root>
